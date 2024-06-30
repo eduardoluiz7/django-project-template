@@ -7,7 +7,7 @@ A django project template with Docker and Celery
 - Docker Compose
 - Django
 ### Setup
-- Change all the ocurrencies of "project_template" to the name of your project
+- Change all the occurrences of "project_template" to the name of your project
 - Run:
     ```bash
     docker-compose up --build
