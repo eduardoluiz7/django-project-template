@@ -1,0 +1,19 @@
+## Django Template
+
+A django project template with Docker and Celery
+
+### Requirements
+- Docker
+- Docker Compose
+- Django
+### Setup
+- Change all the ocurrencies of "project_template" to the name of your project
+- Run:
+    ```bash
+    docker-compose up --build
+    ```
+- or (with makefile):
+    ```bash
+    make build
+    ```
+
